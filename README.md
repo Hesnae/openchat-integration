@@ -47,3 +47,6 @@ sudo rm -R ./data/questions_answers.csv
 A jenkins file was just created for the three steps to compile, generate jar, build docker image and run it.
 
 
+# Notes
+
+You may want to change the API Key. You can do that [here](src/main/java/com/izicap/chatgptintegration/service/ChatGptQueryApi.java)
