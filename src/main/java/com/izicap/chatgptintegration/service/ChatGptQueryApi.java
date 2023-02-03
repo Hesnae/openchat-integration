@@ -12,7 +12,7 @@ import java.io.IOException;
 @Service
 public class ChatGptQueryApi {
 
-    private String userApiKey = "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";
+    private String userApiKey = "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";
 
     private OkHttpClient client = new OkHttpClient();
 

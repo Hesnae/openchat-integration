@@ -49,4 +49,4 @@ A jenkins file was just created for the three steps to compile, generate jar, bu
 
 # Notes
 
-You may want to change the API Key. You can do that [here](src/main/java/com/izicap/chatgptintegration/service/ChatGptQueryApi.java)
+OpenAI rotates API keys thet they assume leaked publicly. You may want to change the API Key in case of the current one doesn't work anymore. You can do that [here](src/main/java/com/izicap/chatgptintegration/service/ChatGptQueryApi.java)
